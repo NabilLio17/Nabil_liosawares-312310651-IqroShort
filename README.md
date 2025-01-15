@@ -4,5 +4,11 @@
 | -------------------|----------------------------|
 | **NIM**            |          312310651         |
 | **Kelas**          |          TI.23.A.6         |
-| **Mata Kuliah**    |      Pemrograman Web       |
+| **Mata Kuliah**    |      Aplikasi mobile       |
 | **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
+
+
+![image](mockup.png)
+![image](loading.png)
+![image](home.png)
+![image](isi.png)
