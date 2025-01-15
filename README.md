@@ -8,7 +8,10 @@
 | **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
 
 
-![image](mockup.png)
+![image](mockup.jpg)
+<hr>
 ![image](loading.png)
+
 ![image](home.png)
+
 ![image](isi.png)
