@@ -4,8 +4,8 @@
 | -------------------|----------------------------|
 | **NIM**            |          312310651         |
 | **Kelas**          |          TI.23.A.6         |
-| **Mata Kuliah**    |      Aplikasi mobile       |
-| **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
+| **Mata Kuliah**    |      Pemrograman mobile    |
+| **Dosen Pengampu** | Donny Maulana s.kom, m.m.s.i  |
 
 
 ![image](mockup.jpg)
